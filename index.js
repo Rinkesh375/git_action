@@ -12,7 +12,7 @@ console.log(1);
 /*
 const str = "Rinkesh";
 */
-let value = true;
+let value = 'true';
 console.log(value);
 if(value){
   value=!value;
